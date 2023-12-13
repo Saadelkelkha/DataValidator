@@ -4,23 +4,23 @@ This program is that provides essential data validation functions. Leveraging th
 # Check Word Presence (Fonctions):
 
 # check_word
-Description: Verifies if a specified word is present in a given text.
+Verifies if a specified word is present in a given text.
 Check Digit Presence:
 
 # check_digit
-Description: Determines if a string contains at least one digit.
+Determines if a string contains at least one digit.
 Replace Spaces with Hyphens:
 
 # remove_space
-Description: Replaces spaces in a string with hyphens.
+Replaces spaces in a string with hyphens.
 Validate Phone Number Format:
 
 # phone_number
-Description: Validates if a given string follows the format of a phone number (e.g., 99-999-999-99).
+Validates if a given string follows the format of a phone number (e.g., 99-999-999-99).
 Validate Email Address Format:
 
 # email
-Description: Validates if a given string follows the format of an email address.
+Validates if a given string follows the format of an email address.
 
 
 # Main program : 
