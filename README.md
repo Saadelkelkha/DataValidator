@@ -5,19 +5,15 @@ This program is that provides essential data validation functions. Leveraging th
 
 # check_word
 Verifies if a specified word is present in a given text.
-Check Digit Presence:
 
 # check_digit
 Determines if a string contains at least one digit.
-Replace Spaces with Hyphens:
 
 # remove_space
 Replaces spaces in a string with hyphens.
-Validate Phone Number Format:
 
 # phone_number
 Validates if a given string follows the format of a phone number (e.g., 99-999-999-99).
-Validate Email Address Format:
 
 # email
 Validates if a given string follows the format of an email address.
