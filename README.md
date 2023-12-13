@@ -1,25 +1,25 @@
 # DataValidator
 This program is that provides essential data validation functions. Leveraging the re module, it offers capabilities such as checking word presence, verifying digit existence, replacing spaces with hyphens, and validating phone numbers and email addresses. The main section demonstrates the functions' effectiveness through practical tests.
 
-# Check Word Presence:
+# Check Word Presence (Fonctions):
 
-Function: check_word
+# check_word
 Description: Verifies if a specified word is present in a given text.
 Check Digit Presence:
 
-Function: check_digit
+# check_digit
 Description: Determines if a string contains at least one digit.
 Replace Spaces with Hyphens:
 
-Function: remove_space
+# remove_space
 Description: Replaces spaces in a string with hyphens.
 Validate Phone Number Format:
 
-Function: phone_number
+# phone_number
 Description: Validates if a given string follows the format of a phone number (e.g., 99-999-999-99).
 Validate Email Address Format:
 
-Function: email
+# email
 Description: Validates if a given string follows the format of an email address.
 
 
